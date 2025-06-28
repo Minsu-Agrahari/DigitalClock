@@ -50,7 +50,7 @@ DigitalClock/
 ![image](https://github.com/user-attachments/assets/893f588d-6142-4f9a-8e94-c5f0475f67b8)
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 ### Minsu Agrahari
 🎓 CSE Student | 💻 Frontend Enthusiast
 🌍 From Jharkhand, India
@@ -60,7 +60,6 @@ DigitalClock/
 ## 📄 License
 This project is licensed under the MIT License 📃
 ---
-📃
 
 ## 🙌 Support
 If you like this project, don’t forget to ⭐ star it and share it with others!
@@ -68,13 +67,6 @@ If you like this project, don’t forget to ⭐ star it and share it with others
 
 ---
 
-Let me know if you'd like to:
-- Add a live preview using GitHub Pages
-- Include a dark mode switch
-- Style the clock like a digital LED or flip clock!
-
-
----
 
 
 
