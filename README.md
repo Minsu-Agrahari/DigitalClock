@@ -51,13 +51,16 @@ DigitalClock/
 ---
 
 ## 👨‍💻 Author
+
 ### Minsu Agrahari
+
 🎓 CSE Student | 💻 Frontend Enthusiast
 🌍 From Jharkhand, India
 
 ---
 
 ## 📄 License
+
 This project is licensed under the MIT License 📃
 ---
 
